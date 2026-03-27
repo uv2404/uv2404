@@ -64,7 +64,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
 ## 📈Github Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mafia2404&label=Profile%20views&color=0e75b6&style=flat" alt="Mafia2404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uv2404&label=Profile%20views&color=0e75b6&style=flat" alt="uv2404" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uv2404" alt="uv2404" /></a> </p>
 
