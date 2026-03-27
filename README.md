@@ -1,5 +1,5 @@
 ### Hey  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mafia2404&label=Profile%20views&color=0e75b6&style=flat" alt="Mafia2404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uv2404&label=Profile%20views&color=0e75b6&style=flat" alt="uv2404" /> </p>
 <!--<a href="https://github/Mafia24">
   <img align="left" alt="mafia's github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
@@ -28,7 +28,7 @@ hi, i'm uv2404 , a passionate self-taught <!--full stack Android developer and a
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Uddhav2404/Uddhav2404/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/uv2404/uv2404/master/code.gif?raw=true" width="500" height="320" />
   
 -🔭 I’m currently practicing DSA<br/>
 - 💼 any freelance work? do reach, [email]() :)
@@ -66,13 +66,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## 📈Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mafia2404&label=Profile%20views&color=0e75b6&style=flat" alt="Mafia2404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mafia2404" alt="Mafia2404" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uv2404" alt="uv2404" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=Mafia2404&theme=midnight-purple" style="margin-right:2px;">
-  <img src="https://streak-stats.demolab.com/?user=Mafia2404&theme=holi-theme">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mafia2404&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=uv2404&theme=midnight-purple" style="margin-right:2px;">
+  <img src="https://streak-stats.demolab.com/?user=uv2404&theme=holi-theme">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uv2404&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 
 </p>
 
